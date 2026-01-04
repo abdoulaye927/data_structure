@@ -1,4 +1,4 @@
 # data-structure-codes
 data structure homeworks codes 
-Name: mohammed adil mohammed adam
-No : 2210205561
+Name: ABDRAMANE ABDOULAYE ABDOULAYE 
+No : 2210205597
